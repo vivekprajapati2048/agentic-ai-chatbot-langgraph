@@ -12,6 +12,7 @@ This project is a modular, Streamlit-based application that enables users to int
 ## Demo – LangGraph AgenticAI in Action
 <video width="640" controls>
   <source src="demo/agentic-ai-chatbot-langgraph.mp4" type="video/mp4">
-  Your browser does not support the video tag.  
-  [Click here to watch the video](https://drive.google.com/file/d/1CWTK6L3sPM9PiIVudqhOBbNLj4SuGJU2/view?usp=drive_link)
 </video>
+
+Your browser does not support the video tag. 
+[Click here to watch the video](https://drive.google.com/file/d/1CWTK6L3sPM9PiIVudqhOBbNLj4SuGJU2/view?usp=drive_link)
